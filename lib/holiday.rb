@@ -95,7 +95,7 @@ def all_holidays_with_bbq(holiday_hash)
       if supply  = "BBQ"
         holidays_with_bbq.push holiday
   end
-  
+end
 end
 holidays_with_bbq
 
